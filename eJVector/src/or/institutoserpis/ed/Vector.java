@@ -15,7 +15,7 @@ public class Vector {
 			return index;
 	}
 //	
-	public static Object min(int[] is) {
+	  static Object min(int[] is) {
 		// TODO Auto-generated method stub
 		return null;
 	}
